@@ -1,0 +1,10 @@
+# KeysRemover Plugin Configuration
+auto-send-on-join: true
+rules: []
+# Ejemplo de una regla:
+# - name: "KEY.KEYBOARD.E"
+#   selector: "@a[tag=staff]"
+#   type: "key"
+# - name: "KEY.DROP"
+#   selector: "owleaf"
+#   type: "event"
