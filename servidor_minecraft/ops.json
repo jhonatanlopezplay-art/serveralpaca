@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "f7e392e8-b731-391d-993d-0843e9463f01",
+    "name": "BasseeMC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "87163fce-d3f0-36b8-b000-b5f2f1f1e42e",
+    "name": "Elgato_peruanoo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5219f159-e9ab-3b3e-8c78-072aa75742ca",
+    "name": "Xplix",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5e8f223e-eab1-3fde-9f1c-c301a1d80f36",
+    "name": "silly_have_money",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2b758c1f-ae3f-405d-b073-1b47dd366e31",
+    "name": "Xplix",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

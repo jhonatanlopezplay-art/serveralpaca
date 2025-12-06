@@ -1,0 +1,610 @@
+[06Dec2025 01:18:05.172] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    运行版本 顿顽 / arclight-1.20.1-1.0.5-1a8925b
+    构建日期 2024-02-28 14:51:40
+
+[06Dec2025 01:18:05.218] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06Dec2025 01:18:05.220] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[06Dec2025 01:18:05.579] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
+[06Dec2025 01:18:05.616] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serveralpaca/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
+[06Dec2025 01:18:06.281] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serveralpaca/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
+[06Dec2025 01:18:06.283] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serveralpaca/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[06Dec2025 01:18:06.284] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serveralpaca/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[06Dec2025 01:18:06.286] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serveralpaca/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[06Dec2025 01:18:06.408] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Dec2025 01:18:08.227] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[06Dec2025 01:18:08.273] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Dec2025 01:18:08.276] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[06Dec2025 01:18:08.279] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[06Dec2025 01:18:08.285] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [nogui]
+[06Dec2025 01:18:08.297] [main/WARN] [mixin/]: Reference map 'owleafutils.refmap.json' for owleafutils.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Dec2025 01:18:19.936] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[06Dec2025 01:18:19.947] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
+[06Dec2025 01:18:19.947] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
+[06Dec2025 01:18:20.020] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[06Dec2025 01:18:20.021] [modloading-worker-0/INFO] [me.manolopro3333.owleafutils.Owleafutils/]: [OwleafUtils] cargado exitosamente.
+[06Dec2025 01:18:20.600] [modloading-worker-0/INFO] [HealtEM.healtem.Healtem/]: HELLO FROM COMMON SETUP
+[06Dec2025 01:18:20.600] [modloading-worker-0/INFO] [HealtEM.healtem.Healtem/]: DIRT BLOCK >> minecraft:dirt
+[06Dec2025 01:18:20.600] [modloading-worker-0/INFO] [HealtEM.healtem.Healtem/]: The magic number is... 42
+[06Dec2025 01:18:20.600] [modloading-worker-0/INFO] [HealtEM.healtem.Healtem/]: ITEM >> iron_ingot
+[06Dec2025 01:18:21.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Dec2025 01:18:21.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.20 Target: 47.4.10
+[06Dec2025 01:18:22.535] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Dec2025 01:18:23.300] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serveralpaca/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
+[06Dec2025 01:18:23.300] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serveralpaca/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
+[06Dec2025 01:18:25.304] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[06Dec2025 01:18:25.450] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[06Dec2025 01:18:26.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Dec2025 01:18:26.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Dec2025 01:18:26.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Dec2025 01:18:26.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Dec2025 01:18:26.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Dec2025 01:18:26.169] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Dec2025 01:18:26.298] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Dec2025 01:18:26.298] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Dec2025 01:18:26.298] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Dec2025 01:18:26.298] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Dec2025 01:18:26.775] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.1-1.0.5-1a8925b (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
+[06Dec2025 01:18:28.150] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[06Dec2025 01:18:28.210] [Server thread/INFO] [Arclight/]: 注册了 3 个材料，其中 2 个方块 1 个物品
+[06Dec2025 01:18:28.211] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果
+[06Dec2025 01:18:28.217] [Server thread/INFO] [Arclight/]: 注册了 39 个新的附魔
+[06Dec2025 01:18:28.217] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物类型
+[06Dec2025 01:18:28.217] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
+[06Dec2025 01:18:28.218] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
+[06Dec2025 01:18:28.245] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 20
+[06Dec2025 01:18:28.248] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[06Dec2025 01:18:28.250] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[06Dec2025 01:18:28.459] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
+[06Dec2025 01:18:28.976] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
+[06Dec2025 01:18:29.520] [Server thread/INFO] [KeyRemover-Plugin/]: Loading KeyRemover-Plugin v1.0.1
+[06Dec2025 01:18:29.520] [Server thread/INFO] [SimpleTimer/]: Loading SimpleTimer v1.5.2
+[06Dec2025 01:18:29.520] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.2.20+6667-f0f1e66
+[06Dec2025 01:18:30.008] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@13a85ca1]
+[06Dec2025 01:18:30.016] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.2.20+6667-f0f1e66
+[06Dec2025 01:18:30.258] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[06Dec2025 01:18:30.338] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[06Dec2025 01:18:30.593] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[06Dec2025 01:18:31.953] [Server thread/INFO] [WorldEdit/]: ====================================================
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:   
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:   
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:   
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:   
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
+[06Dec2025 01:18:31.954] [Server thread/INFO] [WorldEdit/]: ====================================================
+[06Dec2025 01:18:32.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Dec2025 01:18:32.055] [Server thread/INFO] [Arclight/]: 注册了 0 个新的世界类型
+[06Dec2025 01:18:32.804] [Server thread/INFO] [KeyRemover-Plugin/]: Enabling KeyRemover-Plugin v1.0.1
+[06Dec2025 01:18:32.809] [Server thread/INFO] [KeyRemover-Plugin/]: KeysRemover-Plugin Activado.
+[06Dec2025 01:18:32.809] [Server thread/INFO] [SimpleTimer/]: Enabling SimpleTimer v1.5.2
+[06Dec2025 01:18:32.824] [Server thread/INFO] [Console/]: [SimpleTimer] Successfully Enabled (v1.5.2)
+[06Dec2025 01:18:32.824] [Server thread/INFO] [Console/]: [SimpleTimer] Xhasi » Thanks for using my plugin
+[06Dec2025 01:18:32.896] [Server thread/INFO] [Console/]: [SimpleTimer] There is a new version available. (v1.6.0)
+[06Dec2025 01:18:32.896] [Server thread/INFO] [Console/]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
+[06Dec2025 01:18:32.905] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[06Dec2025 01:18:32.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Dec2025 01:18:34.353] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2025 01:18:34.354] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2025 01:18:34.355] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2025 01:18:34.499] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2025 01:18:35.161] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2025 01:18:35.489] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2025 01:18:35.988] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Dec2025 01:18:36.488] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[06Dec2025 01:18:36.988] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[06Dec2025 01:18:37.088] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4101 ms
+[06Dec2025 01:18:37.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.134s)! For help, type "help"
+[06Dec2025 01:18:37.111] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Dec2025 01:18:37.111] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
+[06Dec2025 01:18:37.111] [Server thread/INFO] [HealtEM.healtem.Healtem/]: HELLO from server starting
+[06Dec2025 01:18:37.303] [Server thread/INFO] [PlasmoVoice/]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[06Dec2025 01:18:37.494] [pool-10-thread-1/WARN] [PlasmoVoice/]: New version available 2.1.6: https://cdn.modrinth.com/data/1bZhdhsH/versions/jUfq4vP0/plasmovoice-forge-1.20.1-2.1.6.jar
+[06Dec2025 01:20:17.111] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player silly_have_money is 5e8f223e-eab1-3fde-9f1c-c301a1d80f36
+[06Dec2025 01:20:19.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: silly_have_money[/127.121.123.128:34083] logged in with entity id 34 at (28.729662344230192, 107.0, 71.35772578015508)
+[06Dec2025 01:20:20.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: silly_have_money joined the game
+[06Dec2025 01:20:38.846] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Xplix is 5219f159-e9ab-3b3e-8c78-072aa75742ca
+[06Dec2025 01:20:40.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xplix[/127.17.250.72:48563] logged in with entity id 35 at (48.18832590188525, 112.11907177689703, 27.55214168592593)
+[06Dec2025 01:20:40.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix joined the game
+[06Dec2025 01:20:49.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp silly_have_money
+[06Dec2025 01:20:49.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Teleported Xplix to silly_have_money]
+[06Dec2025 01:20:58.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /weather clear
+[06Dec2025 01:20:58.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set the weather to clear]
+[06Dec2025 01:21:05.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /time set day
+[06Dec2025 01:21:05.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set the time to 1000]
+[06Dec2025 01:21:13.205] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> ven
+[06Dec2025 01:21:17.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:21:17.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:21:21.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:21:21.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:21:27.864] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> ponte
+[06Dec2025 01:21:28.456] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> espera
+[06Dec2025 01:21:34.207] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> quiero probar algo
+[06Dec2025 01:21:36.583] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> no veo nada
+[06Dec2025 01:21:48.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:21:48.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:21:50.454] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> donde esta
+[06Dec2025 01:21:50.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:21:50.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:21:55.198] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> como que no ves nada
+[06Dec2025 01:21:59.933] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> si
+[06Dec2025 01:22:03.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:22:03.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:22:07.327] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> se
+[06Dec2025 01:22:10.661] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> esta mal
+[06Dec2025 01:22:20.935] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> jajajjajaja
+[06Dec2025 01:22:32.411] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> zestian lo hace mejor
+[06Dec2025 01:22:39.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /fibn
+[06Dec2025 01:22:41.537] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> naaaa esto son mods
+[06Dec2025 01:22:43.425] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> poneme op
+[06Dec2025 01:22:53.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:22:53.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:22:56.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:22:56.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 2 jugador(es) pueden volver a interactuar.
+• 1 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:22:56.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:23:01.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:23:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:23:04.196] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> bro encontre un bug
+[06Dec2025 01:23:10.264] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> mira
+[06Dec2025 01:23:15.020] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> cual
+[06Dec2025 01:23:25.831] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> a eso tambien
+[06Dec2025 01:23:35.999] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> eso en con conditional events
+[06Dec2025 01:23:40.784] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> aaaa
+[06Dec2025 01:23:42.482] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> okey
+[06Dec2025 01:23:42.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:23:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 1 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:23:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:23:46.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:23:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:23:47.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:23:47.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:24:52.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp @a Xplix
+[06Dec2025 01:24:52.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Teleported 2 entities to Xplix]
+[06Dec2025 01:25:01.166] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> naaaa
+[06Dec2025 01:25:11.405] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> que paso
+[06Dec2025 01:25:24.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:25:24.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 1 jugador(es) pueden volver a interactuar.
+• 2 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:25:24.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:25:30.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:25:30.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:25:34.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:25:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:26:12.191] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> la satturacion
+[06Dec2025 01:26:13.897] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> down
+[06Dec2025 01:26:20.473] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> ya down pera
+[06Dec2025 01:26:27.267] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> pero
+[06Dec2025 01:26:33.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:saturation infinite
+[06Dec2025 01:26:33.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Saturation to 2 targets]
+[06Dec2025 01:26:37.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:regeneration infinite
+[06Dec2025 01:26:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Regeneration to 2 targets]
+[06Dec2025 01:26:41.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp @a Xplix
+[06Dec2025 01:26:41.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Teleported 2 entities to Xplix]
+[06Dec2025 01:28:08.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /finpingui
+[06Dec2025 01:28:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:28:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juego Terminado
+[06Dec2025 01:28:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ningún jugador completó 3 minutos
+[06Dec2025 01:28:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todos los jugadores serán eliminados...
+[06Dec2025 01:28:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:28:08.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Juego terminado]
+[06Dec2025 01:28:12.261] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> naaa
+[06Dec2025 01:28:15.248] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> me canse
+[06Dec2025 01:28:20.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:28:20.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 1 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:28:20.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:28:30.796] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> pera
+[06Dec2025 01:28:53.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix was slain by silly_have_money
+[06Dec2025 01:28:56.491] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> sheee
+[06Dec2025 01:29:27.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /tp Xplix -1235 -100 400
+[06Dec2025 01:29:27.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Teleported Xplix to -1234.500000, -100.000000, 400.500000]
+[06Dec2025 01:29:30.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:29:30.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:29:31.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix fell out of the world
+[06Dec2025 01:29:35.592] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> JAJAJAJA
+[06Dec2025 01:29:39.785] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> naaaaa
+[06Dec2025 01:29:47.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode survival
+[06Dec2025 01:29:47.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Survival Mode]
+[06Dec2025 01:29:50.774] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> pvp habla
+[06Dec2025 01:29:51.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /tp Xplix 1 107.00 66.07
+[06Dec2025 01:29:51.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Teleported Xplix to 1.500000, 107.000000, 66.070000]
+[06Dec2025 01:29:53.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:29:53.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:30:04.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /tp Xplix 2 107.00 58.36
+[06Dec2025 01:30:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Teleported Xplix to 2.500000, 107.000000, 58.360000]
+[06Dec2025 01:30:13.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /tp Xplix 1 -10000 58.36
+[06Dec2025 01:30:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Teleported Xplix to 1.500000, -10000.000000, 58.360000]
+[06Dec2025 01:30:16.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix fell out of the world
+[06Dec2025 01:30:26.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /deop silly_have_money
+[06Dec2025 01:30:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Made silly_have_money no longer a server operator]
+[06Dec2025 01:30:29.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /tp Xplix 311232 -100 780
+[06Dec2025 01:30:32.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure @a
+[06Dec2025 01:30:32.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:30:33.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:30:33.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:30:37.362] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> hdp
+[06Dec2025 01:30:47.969] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> los efectos
+[06Dec2025 01:30:48.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:night_vision infinite
+[06Dec2025 01:30:48.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Night Vision to 2 targets]
+[06Dec2025 01:31:01.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:saturation infinite
+[06Dec2025 01:31:01.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Saturation to 2 targets]
+[06Dec2025 01:31:05.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:regeneration infinite
+[06Dec2025 01:31:05.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Regeneration to 2 targets]
+[06Dec2025 01:31:16.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:31:16.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:31:31.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp @a Xplix
+[06Dec2025 01:31:31.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Teleported 2 entities to Xplix]
+[06Dec2025 01:33:57.884] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BasseeMC is f7e392e8-b731-391d-993d-0843e9463f01
+[06Dec2025 01:33:59.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BasseeMC[/127.62.3.16:46291] logged in with entity id 1242 at (66.9664986106706, 107.0, 48.01612044356516)
+[06Dec2025 01:33:59.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BasseeMC joined the game
+[06Dec2025 01:34:40.425] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> terminen ahi y luego les gano
+[06Dec2025 01:34:43.950] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> dea
+[06Dec2025 01:34:58.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:34:58.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:35:09.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:35:09.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:36:23.430] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> ggg
+[06Dec2025 01:36:23.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jugador silly_have_money Pasa
+[06Dec2025 01:37:49.783] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> no puedo correr
+[06Dec2025 01:38:06.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect give @a minecraft:saturation infinite
+[06Dec2025 01:38:06.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Applied effect Saturation to 3 targets]
+[06Dec2025 01:38:09.141] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> eu queres que te haga una lista de bugs?
+[06Dec2025 01:38:14.026] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> si
+[06Dec2025 01:38:19.878] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> oeky
+[06Dec2025 01:38:27.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jugador Xplix Pasa
+[06Dec2025 01:38:31.556] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> tomaaaa
+[06Dec2025 01:38:34.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /finpingui
+[06Dec2025 01:38:34.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:38:34.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juego Terminado
+[06Dec2025 01:38:34.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jugadores2Pasan
+[06Dec2025 01:38:34.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ganadores: Xplix, silly_have_money
+[06Dec2025 01:38:34.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: En espera...
+[06Dec2025 01:38:34.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:38:34.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Juego terminado]
+[06Dec2025 01:38:44.812] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> no tenia saturacion
+[06Dec2025 01:38:51.042] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> hagale otra
+[06Dec2025 01:38:51.708] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> otra
+[06Dec2025 01:38:55.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:38:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:39:02.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:saturation
+[06Dec2025 01:39:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Saturation to 3 targets]
+[06Dec2025 01:39:03.752] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ponga todos los efectos a todos
+[06Dec2025 01:39:04.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:saturation infinite
+[06Dec2025 01:39:04.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Saturation to 3 targets]
+[06Dec2025 01:39:11.322] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> regeneracion
+[06Dec2025 01:39:14.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:39:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:39:15.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:regeneration infinite
+[06Dec2025 01:39:15.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Regeneration to 3 targets]
+[06Dec2025 01:39:25.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:night_vision infinite
+[06Dec2025 01:39:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Night Vision to 3 targets]
+[06Dec2025 01:39:26.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /resetpinguiblock
+[06Dec2025 01:39:26.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: [PinguiGame] Estado reseteado correctamente.
+• 1 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:39:26.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:39:28.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:39:28.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:39:31.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:39:31.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:39:39.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:39:39.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 2 jugador(es) pueden volver a interactuar.
+• 2 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:39:39.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:39:42.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:39:42.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:39:49.877] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> esperaaa
+[06Dec2025 01:39:54.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:39:54.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:39:56.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode survival
+[06Dec2025 01:39:56.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Survival Mode]
+[06Dec2025 01:39:57.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:39:57.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:39:58.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:39:58.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:40:15.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /tp @e BasseeMC
+[06Dec2025 01:40:15.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Teleported 39 entities to BasseeMC]
+[06Dec2025 01:40:19.601] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> xd
+[06Dec2025 01:40:26.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /kill @e
+[06Dec2025 01:40:26.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: silly_have_money was killed
+[06Dec2025 01:40:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix was killed
+[06Dec2025 01:40:26.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BasseeMC was killed
+[06Dec2025 01:40:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Killed 44 entities]
+[06Dec2025 01:40:31.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:40:31.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 2 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:40:31.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:40:42.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:40:42.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:40:46.916] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> da los efectos
+[06Dec2025 01:40:54.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:saturation
+[06Dec2025 01:40:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Saturation to 3 targets]
+[06Dec2025 01:40:56.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:saturation infinite
+[06Dec2025 01:40:56.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Saturation to 3 targets]
+[06Dec2025 01:41:00.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:regeneration infinite
+[06Dec2025 01:41:00.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Regeneration to 3 targets]
+[06Dec2025 01:41:04.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:night_vision infinite
+[06Dec2025 01:41:04.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Night Vision to 3 targets]
+[06Dec2025 01:41:09.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp @a Xplix
+[06Dec2025 01:41:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Teleported 3 entities to Xplix]
+[06Dec2025 01:41:18.865] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> una tu y yo
+[06Dec2025 01:41:23.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:41:23.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:41:32.348] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> peren reinicien
+[06Dec2025 01:41:39.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /resetpinguiblock
+[06Dec2025 01:41:39.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: [PinguiGame] Estado reseteado correctamente.
+• 1 jugador(es) pueden volver a interactuar.
+• 2 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:41:39.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:41:42.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:41:42.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:41:44.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:41:44.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:41:58.915] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> dale putita
+[06Dec2025 01:42:11.162] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> terminenlo
+[06Dec2025 01:42:15.323] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ?
+[06Dec2025 01:42:16.107] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> vamos a hacer algo
+[06Dec2025 01:42:16.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:42:16.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 2 jugador(es) pueden volver a interactuar.
+• 2 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:42:16.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:42:20.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:42:20.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:42:22.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:42:22.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:42:26.276] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> pero pongan fin pinguimn
+[06Dec2025 01:42:31.430] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> reinicien todo
+[06Dec2025 01:42:36.455] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> vamos a competir
+[06Dec2025 01:42:41.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:42:41.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 2 jugador(es) pueden volver a interactuar.
+• 2 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:42:41.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:42:43.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /finpingui
+[06Dec2025 01:42:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:42:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juego Terminado
+[06Dec2025 01:42:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ningún jugador completó 3 minutos
+[06Dec2025 01:42:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todos los jugadores serán eliminados...
+[06Dec2025 01:42:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:42:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Juego terminado]
+[06Dec2025 01:42:49.126] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> da los efectos
+[06Dec2025 01:42:49.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /resetpinguiblock
+[06Dec2025 01:42:49.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: [PinguiGame] Estado reseteado correctamente.
+• 0 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:42:49.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:42:56.300] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> LOS EFECTOS
+[06Dec2025 01:43:00.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp @a Xplix
+[06Dec2025 01:43:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Teleported 3 entities to Xplix]
+[06Dec2025 01:43:04.250] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> hagamos por eliminatoriaa
+[06Dec2025 01:43:04.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:43:04.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:43:06.939] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> pone dos
+[06Dec2025 01:43:13.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:saturation infinite
+[06Dec2025 01:43:13.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Saturation to 3 targets]
+[06Dec2025 01:43:17.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:regeneration infinite
+[06Dec2025 01:43:17.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Regeneration to 3 targets]
+[06Dec2025 01:43:22.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:43:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:44:42.410] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> solo hay uno xd
+[06Dec2025 01:44:44.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:44:44.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:44:45.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:44:45.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:44:46.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:44:46.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:44:47.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:44:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:46:45.701] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ?
+[06Dec2025 01:46:56.722] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> se desaparecio el otro o q
+[06Dec2025 01:47:00.384] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> lit
+[06Dec2025 01:48:01.284] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ggs
+[06Dec2025 01:48:01.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jugador BasseeMC Pasa
+[06Dec2025 01:48:33.377] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> ggs
+[06Dec2025 01:48:33.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jugador silly_have_money Pasa
+[06Dec2025 01:48:41.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /finpingui
+[06Dec2025 01:48:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:48:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juego Terminado
+[06Dec2025 01:48:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jugadores2Pasan
+[06Dec2025 01:48:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ganadores: silly_have_money, BasseeMC
+[06Dec2025 01:48:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: En espera...
+[06Dec2025 01:48:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:48:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Juego terminado]
+[06Dec2025 01:49:06.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect clear @a
+[06Dec2025 01:49:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Removed every effect from 3 targets]
+[06Dec2025 01:49:06.706] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> empezemos
+[06Dec2025 01:49:07.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp @a
+[06Dec2025 01:49:13.913] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> ponemo op
+[06Dec2025 01:49:23.444] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> PONEM OP
+[06Dec2025 01:49:45.665] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> ahora final base y yo
+[06Dec2025 01:49:49.679] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> dale
+[06Dec2025 01:50:02.289] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> me pones op pls
+[06Dec2025 01:50:07.936] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> BASEEE
+[06Dec2025 01:50:08.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /op silly_have_money
+[06Dec2025 01:50:08.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Made silly_have_money a server operator]
+[06Dec2025 01:50:16.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /gamemode creative
+[06Dec2025 01:50:16.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Set own game mode to Creative Mode]
+[06Dec2025 01:50:20.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:50:20.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:50:34.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /resetpinguiblock
+[06Dec2025 01:50:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: [PinguiGame] Estado reseteado correctamente.
+• 1 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:50:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:50:34.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /gamemode adventure
+[06Dec2025 01:50:34.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Set own game mode to Adventure Mode]
+[06Dec2025 01:50:36.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:50:36.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:50:38.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /resetpinguiblock
+[06Dec2025 01:50:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: [PinguiGame] Estado reseteado correctamente.
+• 0 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:50:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:50:46.062] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> LOS EFECTOS
+[06Dec2025 01:50:51.067] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> efectos
+[06Dec2025 01:50:55.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /kill @a
+[06Dec2025 01:50:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BasseeMC was killed
+[06Dec2025 01:50:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: silly_have_money was killed
+[06Dec2025 01:50:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix was killed whilst fighting silly_have_money
+[06Dec2025 01:50:55.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Killed 3 entities]
+[06Dec2025 01:51:03.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:51:03.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:51:08.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /time set day
+[06Dec2025 01:51:08.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set the time to 1000]
+[06Dec2025 01:51:18.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect give @a minecraft:regeneration infinite 100
+[06Dec2025 01:51:18.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Applied effect Regeneration to 3 targets]
+[06Dec2025 01:51:33.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect give @a minecraft:saturation infinite 100 true
+[06Dec2025 01:51:33.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Applied effect Saturation to 3 targets]
+[06Dec2025 01:51:42.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /gamemode creative
+[06Dec2025 01:51:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Set own game mode to Creative Mode]
+[06Dec2025 01:51:46.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:51:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:51:49.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:51:49.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:51:53.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /resetpinguiblock
+[06Dec2025 01:51:53.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: [PinguiGame] Estado reseteado correctamente.
+• 1 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:51:53.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:51:55.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:51:55.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:51:57.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /gamemode adventure
+[06Dec2025 01:51:57.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Set own game mode to Adventure Mode]
+[06Dec2025 01:52:03.996] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ?
+[06Dec2025 01:52:07.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:52:07.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:52:21.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /finpingui
+[06Dec2025 01:52:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:52:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juego Terminado
+[06Dec2025 01:52:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ningún jugador completó 3 minutos
+[06Dec2025 01:52:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todos los jugadores serán eliminados...
+[06Dec2025 01:52:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:52:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Juego terminado]
+[06Dec2025 01:52:32.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect give @a minecraft:regeneration infinite 100 true
+[06Dec2025 01:52:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Applied effect Regeneration to 3 targets]
+[06Dec2025 01:52:32.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /gamemode creative
+[06Dec2025 01:52:32.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Set own game mode to Creative Mode]
+[06Dec2025 01:52:42.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /resetpinguiblock
+[06Dec2025 01:52:42.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: [PinguiGame] Estado reseteado correctamente.
+• 1 jugador(es) pueden volver a interactuar.
+• 0 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:52:42.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:52:44.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect give @a minecraft:saturation infinite 100 true
+[06Dec2025 01:52:44.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Applied effect Saturation to 3 targets]
+[06Dec2025 01:52:48.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /gamemode adventure
+[06Dec2025 01:52:48.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Set own game mode to Adventure Mode]
+[06Dec2025 01:52:49.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:52:49.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:52:55.001] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ?
+[06Dec2025 01:53:02.830] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> increibelçw
+[06Dec2025 01:53:10.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /finpingui
+[06Dec2025 01:53:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:53:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juego Terminado
+[06Dec2025 01:53:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ningún jugador completó 3 minutos
+[06Dec2025 01:53:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Todos los jugadores serán eliminados...
+[06Dec2025 01:53:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:53:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Juego terminado]
+[06Dec2025 01:53:15.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:53:15.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:53:17.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:53:17.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:53:24.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure @a
+[06Dec2025 01:53:29.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /tp @a BasseeMC
+[06Dec2025 01:53:29.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Teleported 3 entities to BasseeMC]
+[06Dec2025 01:54:18.464] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> juego lleno de bugs
+[06Dec2025 01:54:30.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /gamemode creative
+[06Dec2025 01:54:30.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Set own game mode to Creative Mode]
+[06Dec2025 01:54:33.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[06Dec2025 01:54:33.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[06Dec2025 01:54:35.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:54:35.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:54:37.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode adventure
+[06Dec2025 01:54:37.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Adventure Mode]
+[06Dec2025 01:54:37.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /resetpinguiblock
+[06Dec2025 01:54:37.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: [PinguiGame] Estado reseteado correctamente.
+• 2 jugador(es) pueden volver a interactuar.
+• 1 pingüino(s) removido(s) de las cabezas.
+• ¡JUEGO INICIADO!]
+[06Dec2025 01:54:37.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ¡Juego iniciado! ¡Compite por 3 minutos con el pingüino!
+[06Dec2025 01:54:39.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money issued server command: /gamemode adventure
+[06Dec2025 01:54:39.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [silly_have_money: Set own game mode to Adventure Mode]
+[06Dec2025 01:54:39.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[06Dec2025 01:54:39.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[06Dec2025 01:55:52.761] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> me tengo que it
+[06Dec2025 01:55:57.617] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> ok
+[06Dec2025 01:55:58.732] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> juego lleno de bugs
+[06Dec2025 01:56:06.216] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> cuales son
+[06Dec2025 01:56:18.617] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> todos los que mande por general
+[06Dec2025 01:56:39.177] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <silly_have_money> bye
+[06Dec2025 01:56:40.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: silly_have_money lost connection: Disconnected
+[06Dec2025 01:56:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: silly_have_money left the game
+[06Dec2025 01:57:33.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix was slain by BasseeMC
+[06Dec2025 01:57:55.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC moved wrongly!
+[06Dec2025 01:58:00.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BasseeMC was slain by Xplix
+[06Dec2025 01:58:06.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /tp BasseeMC Xplix
+[06Dec2025 01:58:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Teleported BasseeMC to Xplix]
+[06Dec2025 01:58:35.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix was slain by BasseeMC
+[06Dec2025 01:58:42.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp @a Xplix
+[06Dec2025 01:58:42.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Teleported 2 entities to Xplix]
+[06Dec2025 01:59:22.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BasseeMC was slain by Xplix
+[06Dec2025 01:59:27.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /tp BasseeMC Xplix
+[06Dec2025 01:59:27.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Teleported BasseeMC to Xplix]
+[06Dec2025 01:59:35.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[06Dec2025 01:59:35.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[06Dec2025 01:59:36.837] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ggs
+[06Dec2025 01:59:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jugador BasseeMC Pasa
+[06Dec2025 01:59:47.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /finpingui
+[06Dec2025 01:59:47.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:59:47.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juego Terminado
+[06Dec2025 01:59:47.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jugador BasseeMC Pasa
+[06Dec2025 01:59:47.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ⏱ Tiempo alcanzado: 180s / 180s
+[06Dec2025 01:59:47.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: En espera...
+[06Dec2025 01:59:47.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[06Dec2025 01:59:47.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Juego terminado]
+[06Dec2025 01:59:56.267] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> voy arreglar las coasas ok?
+[06Dec2025 02:00:00.429] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> no le hagas caso el juego esta god
+[06Dec2025 02:00:01.554] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> isisi
+[06Dec2025 02:00:02.608] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> dale
+[06Dec2025 02:00:06.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix lost connection: Disconnected
+[06Dec2025 02:00:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix left the game
+[06Dec2025 02:00:11.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC lost connection: Disconnected
+[06Dec2025 02:00:11.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BasseeMC left the game
