@@ -1,0 +1,258 @@
+[08Dec2025 00:00:08.169] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> si
+[08Dec2025 00:00:08.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /time set night
+[08Dec2025 00:00:08.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set the time to 13000]
+[08Dec2025 00:00:14.192] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> el pisso estaba asi
+[08Dec2025 00:00:14.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /time set midnight
+[08Dec2025 00:00:14.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set the time to 18000]
+[08Dec2025 00:00:22.858] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> yo lo continue
+[08Dec2025 00:00:28.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /time set midnight
+[08Dec2025 00:00:28.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set the time to 18000]
+[08Dec2025 00:00:29.206] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> bassecmc mejor pongamos vision nocturna en ves de los focos
+[08Dec2025 00:00:32.979] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> bro
+[08Dec2025 00:00:35.722] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> eso se soluciona
+[08Dec2025 00:00:40.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect clear @a minecraft:night_vision
+[08Dec2025 00:00:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Removed effect Night Vision from 3 targets]
+[08Dec2025 00:00:44.613] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> va
+[08Dec2025 00:00:53.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /effect give @a minecraft:night_vision infinite
+[08Dec2025 00:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Applied effect Night Vision to 3 targets]
+[08Dec2025 00:00:54.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set light
+[08Dec2025 00:00:57.968] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> ya
+[08Dec2025 00:01:03.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /effect clear @a
+[08Dec2025 00:01:03.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Removed every effect from 3 targets]
+[08Dec2025 00:01:06.300] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> q opinan
+[08Dec2025 00:01:28.395] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> quiten los focos y mejor night vision
+[08Dec2025 00:01:47.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:01:48.522] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> hay que hacer un betatest con los miembro que hay
+[08Dec2025 00:01:48.595] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> ya
+[08Dec2025 00:01:52.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 0
+[08Dec2025 00:01:57.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 0
+[08Dec2025 00:02:06.971] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> eu
+[08Dec2025 00:02:13.524] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> el mapa no es como un parque acuatico no?
+[08Dec2025 00:02:45.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: //set glass
+[08Dec2025 00:02:53.640] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> si
+[08Dec2025 00:02:58.551] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> ah ok
+[08Dec2025 00:03:01.333] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> y esos cosos del piso q
+[08Dec2025 00:03:01.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect give @a minecraft:night_vision
+[08Dec2025 00:03:01.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Applied effect Night Vision to 3 targets]
+[08Dec2025 00:03:11.805] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> tuberias
+[08Dec2025 00:03:14.771] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> pq lo dice
+[08Dec2025 00:03:27.555] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> xq se ve raro
+[08Dec2025 00:03:34.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /effect give @a minecraft:night_vision infinite 100 true
+[08Dec2025 00:03:34.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Applied effect Night Vision to 3 targets]
+[08Dec2025 00:03:49.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: //set glass
+[08Dec2025 00:03:49.448] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> es para que sea mas divertido
+[08Dec2025 00:03:56.930] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> luego con el txt se vera meojr
+[08Dec2025 00:03:59.022] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> mejor
+[08Dec2025 00:04:05.586] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> sigan trabajando
+[08Dec2025 00:04:07.593] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ya vengo
+[08Dec2025 00:04:13.440] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> regreson en 40 minutos
+[08Dec2025 00:04:21.567] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> afk
+[08Dec2025 00:04:27.061] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> voy a arregalr las cosas
+[08Dec2025 00:04:31.126] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> del minijuego
+[08Dec2025 00:04:32.481] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> vav
+[08Dec2025 00:04:37.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix lost connection: Disconnected
+[08Dec2025 00:04:37.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix left the game
+[08Dec2025 00:05:55.862] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> boee
+[08Dec2025 00:09:25.726] [Async Chat Thread - #44/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> q
+[08Dec2025 00:10:16.034] [Async Chat Thread - #44/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> q
+[08Dec2025 00:12:30.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:12:42.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:12:50.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:13:59.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:14:46.890] [Async Chat Thread - #46/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> BasseeMC
+[08Dec2025 00:14:51.877] [Async Chat Thread - #45/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> yo digo q cambiemos de color el piso
+[08Dec2025 00:16:00.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:16:08.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:16:10.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /undo
+[08Dec2025 00:16:14.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:16:16.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /undo
+[08Dec2025 00:16:20.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:17:15.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:17:47.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:17:58.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //pasate
+[08Dec2025 00:17:59.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:18:02.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:18:09.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:18:26.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:18:29.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:18:33.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:18:37.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /undo
+[08Dec2025 00:18:41.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:19:00.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 0
+[08Dec2025 00:19:12.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 0
+[08Dec2025 00:19:17.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 0
+[08Dec2025 00:19:17.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode spectator
+[08Dec2025 00:19:17.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Spectator Mode]
+[08Dec2025 00:19:25.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode creative
+[08Dec2025 00:19:25.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Creative Mode]
+[08Dec2025 00:19:29.385] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Xplix is 5219f159-e9ab-3b3e-8c78-072aa75742ca
+[08Dec2025 00:19:31.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xplix[/127.17.250.72:57645] logged in with entity id 8481 at (34.06494561127381, 108.7830990970731, 34.16525029724801)
+[08Dec2025 00:19:31.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix joined the game
+[08Dec2025 00:19:42.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode spectator
+[08Dec2025 00:19:42.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Spectator Mode]
+[08Dec2025 00:19:44.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /gamemode creative
+[08Dec2025 00:19:44.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Set own game mode to Creative Mode]
+[08Dec2025 00:20:50.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:20:57.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:21:02.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:21:41.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:21:44.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:22:00.790] [Async Chat Thread - #48/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> x: 47.196 y: 127.00 z: 40.471
+[08Dec2025 00:22:13.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:22:36.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:22:37.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix issued server command: /tp @a Xplix
+[08Dec2025 00:22:37.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xplix: Teleported 3 entities to Xplix]
+[08Dec2025 00:22:38.919] [Async Chat Thread - #48/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> q
+[08Dec2025 00:22:40.591] [Async Chat Thread - #47/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> d
+[08Dec2025 00:22:41.087] [Async Chat Thread - #48/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> DAA
+[08Dec2025 00:22:44.015] [Async Chat Thread - #47/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> estoy buildenado
+[08Dec2025 00:22:44.277] [Async Chat Thread - #48/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> xddddd
+[08Dec2025 00:22:45.469] [Async Chat Thread - #47/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> gordo dde mierd
+[08Dec2025 00:22:46.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode spectator
+[08Dec2025 00:22:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Spectator Mode]
+[08Dec2025 00:22:48.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode creative
+[08Dec2025 00:22:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Creative Mode]
+[08Dec2025 00:22:55.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:22:56.688] [Async Chat Thread - #47/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> solo vine para eso
+[08Dec2025 00:23:00.281] [Async Chat Thread - #48/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xplix> PUTITOS
+[08Dec2025 00:23:05.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:23:13.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:23:17.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:23:23.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:23:24.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xplix lost connection: Disconnected
+[08Dec2025 00:23:24.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xplix left the game
+[08Dec2025 00:23:28.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:23:36.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:24:41.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:24:52.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:25:03.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:25:15.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:19.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:27:27.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:33.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:38.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:41.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:44.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:47.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:50.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:52.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:27:57.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:28:00.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:28:03.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:28:05.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:22.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:30:26.819] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08Dec2025 00:30:31.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:38.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:41.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:43.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:46.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:49.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:51.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:53.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:55.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:30:57.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:31:00.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:31:06.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:31:13.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:31:15.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:31:18.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:31:21.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:31:23.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:31:26.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:32:46.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:32:49.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //rotate 180
+[08Dec2025 00:32:58.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:33:15.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //copy
+[08Dec2025 00:33:22.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:33:28.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //paste
+[08Dec2025 00:40:29.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 1
+[08Dec2025 00:40:32.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:40:34.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace 0 1
+[08Dec2025 00:42:03.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lin4Pepi has made the advancement [Stone Age]
+[08Dec2025 00:42:30.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set t 0
+[08Dec2025 00:42:33.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 0
+[08Dec2025 00:43:26.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 1
+[08Dec2025 00:43:41.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 1
+[08Dec2025 00:45:04.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set 1
+[08Dec2025 00:45:20.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode spectator
+[08Dec2025 00:45:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Spectator Mode]
+[08Dec2025 00:45:22.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode adventure
+[08Dec2025 00:45:22.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Adventure Mode]
+[08Dec2025 00:45:23.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode spectator
+[08Dec2025 00:45:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Spectator Mode]
+[08Dec2025 00:45:24.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode creative
+[08Dec2025 00:45:24.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Creative Mode]
+[08Dec2025 00:45:56.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set minecraft:stone,stone_bricks
+[08Dec2025 00:45:59.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /undo
+[08Dec2025 00:46:09.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set minecraft:stone,cobblestone
+[08Dec2025 00:46:14.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:46:20.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set minecraft:stone,cobblestone,andesite,tuff
+[08Dec2025 00:46:22.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode spectator
+[08Dec2025 00:46:22.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Spectator Mode]
+[08Dec2025 00:46:27.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:46:32.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace 0 minecraft:stone,cobblestone,andesite,tuff
+[08Dec2025 00:46:34.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /undo
+[08Dec2025 00:46:37.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode adventure
+[08Dec2025 00:46:37.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Adventure Mode]
+[08Dec2025 00:46:37.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace 1 minecraft:stone,cobblestone,andesite,tuff
+[08Dec2025 00:46:39.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode spectator
+[08Dec2025 00:46:39.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Spectator Mode]
+[08Dec2025 00:46:44.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /gamemode creative
+[08Dec2025 00:46:44.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Set own game mode to Creative Mode]
+[08Dec2025 00:46:45.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BasseeMC issued server command: /gamemode creative
+[08Dec2025 00:46:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BasseeMC: Set own game mode to Creative Mode]
+[08Dec2025 00:46:50.141] [Async Chat Thread - #50/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> que es esta mrd
+[08Dec2025 00:46:51.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: /tp BasseeMC Lin4Pepi
+[08Dec2025 00:46:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lin4Pepi: Teleported BasseeMC to Lin4Pepi]
+[08Dec2025 00:46:52.578] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> confia
+[08Dec2025 00:46:59.027] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> deja ver lo que hizo
+[08Dec2025 00:47:07.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BasseeMC has made the advancement [Stone Age]
+[08Dec2025 00:47:43.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace 0 water
+[08Dec2025 00:47:55.812] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> solo es ponerle texture y ya
+[08Dec2025 00:48:01.179] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> porque puso un patron de piso como si fuera el lobby
+[08Dec2025 00:48:08.497] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> es q vi una parte asi
+[08Dec2025 00:48:12.409] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> y lo puse iguaal
+[08Dec2025 00:48:16.841] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> na
+[08Dec2025 00:48:18.724] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> bueno
+[08Dec2025 00:48:22.997] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> eso se cambia rapido
+[08Dec2025 00:48:25.141] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> eso se remplaza facil
+[08Dec2025 00:48:37.852] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> ven
+[08Dec2025 00:48:43.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set white_glazed_terracotta
+[08Dec2025 00:48:45.565] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> y si conectamos esto con lo demas?
+[08Dec2025 00:48:47.463] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> que opina
+[08Dec2025 00:48:48.893] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> eso pense
+[08Dec2025 00:48:50.543] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> pero se veria raaro
+[08Dec2025 00:48:52.578] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> no cree
+[08Dec2025 00:48:53.673] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> eo
+[08Dec2025 00:48:57.438] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> xq estan las tuberias de vidrio
+[08Dec2025 00:48:58.761] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> se ve raro
+[08Dec2025 00:49:01.358] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> pero un ducto pequeño
+[08Dec2025 00:49:09.293] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> yo le dije al maje pero no hizo caso
+[08Dec2025 00:49:13.445] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> xd
+[08Dec2025 00:49:14.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //set white_glazed_terracotta
+[08Dec2025 00:49:19.864] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> lo cambiaremos luego
+[08Dec2025 00:49:20.350] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> q prb
+[08Dec2025 00:49:27.948] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> si
+[08Dec2025 00:49:29.049] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> uy
+[08Dec2025 00:49:33.240] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> yo soy como a utista
+[08Dec2025 00:49:34.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:49:35.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:49:36.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:49:37.809] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> si vi
+[08Dec2025 00:49:45.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //redo
+[08Dec2025 00:49:47.769] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> ya
+[08Dec2025 00:49:51.395] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> ahora si
+[08Dec2025 00:49:55.009] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> vea mis lecciones de w.e B)
+[08Dec2025 00:49:58.563] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BasseeMC> como haremos las puertas como las que hay en ag?
+[08Dec2025 00:50:06.318] [Async Chat Thread - #51/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> nose
+[08Dec2025 00:50:07.739] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> resolvemos
+[08Dec2025 00:50:39.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace white_glazed_terracotta,
+[08Dec2025 00:50:58.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace white_glazed_terracotta white_glazed_terracotta,gray_glazed_terracotta
+[08Dec2025 00:51:01.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace white_glazed_terracotta white_glazed_terracotta,gray_glazed_terracotta
+[08Dec2025 00:51:03.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace white_glazed_terracotta white_glazed_terracotta,gray_glazed_terracotta
+[08Dec2025 00:51:05.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //undo
+[08Dec2025 00:51:14.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lin4Pepi issued server command: //replace white_glazed_terracotta,gray_glazed_terracotta white_glazed_terracotta
+[08Dec2025 00:51:15.983] [Async Chat Thread - #53/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> ya
+[08Dec2025 00:51:18.388] [Async Chat Thread - #52/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> ahora si
+[08Dec2025 00:52:04.546] [Async Chat Thread - #53/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lin4Pepi> pille q en mi barrio se estan echando una polvora de la mas sabrosa
